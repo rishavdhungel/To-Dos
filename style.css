@@ -9,7 +9,7 @@ body{
 
 .inputfield{
     margin: 10px auto;
-    width: 60%;
+    width: 30%;
     display:flex;
     flex-direction: column;
     gap: 15px;
@@ -45,7 +45,6 @@ body{
     gap: 10px;
     justify-content: center;
     align-items: center;
-    background-color: white;
 }
 
 
@@ -62,6 +61,7 @@ body{
     border-radius: 5px;
     background-color: bisque;
     padding: 20px;
+    width: 100%;
 }
 
 .title{
